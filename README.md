@@ -1,8 +1,8 @@
 # Your name
 
-FIRST NAME: <Replace this with your first name>
+FIRST NAME: Francis
 
-LAST NAME: <Replace this with your last name>
+LAST NAME: Cyr
 
 # Even Numbers
 
